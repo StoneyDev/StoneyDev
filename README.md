@@ -6,4 +6,4 @@ I'm currently working at [Yper](https://yper.fr/) as a Flutter mobile developer 
 - Flutter with Riverpod
 - Sentry for monitoring
 - Bitrise for CI/CD
-- Maestro for e2e integration
+- Maestro for e2e testing
