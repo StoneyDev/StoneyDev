@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently looking for a new opportunity as a Flutter mobile developer with 6 years' experience<br>
+I'm currently working at Homeserve as a Flutter mobile developer with 6 years' experience<br>
 
 ### My stack : 💻
 - Flutter with Riverpod
